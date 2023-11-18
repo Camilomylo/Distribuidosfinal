@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHUSM10EpkoZQhW5CE6UaSx5kqaUccCuR+UfLtUMuaEvaEKj33k+tIMEoJdyr7gmNERE6kHID3FKj34ahoebNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plays\\OneDrive\\Desktop\\RepoFinalServer-main\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plays\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
